@@ -1,5 +1,5 @@
 # RandomCargo
-A simple script to randomize project order on Cargo Collective.
+A simple script to randomize project thumbnails on Cargo Collective.
 
 ## Table of Contents
  - [Requirements](#requirements)
