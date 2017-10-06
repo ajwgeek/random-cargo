@@ -4,7 +4,6 @@ A simple script to randomize project thumbnails on Cargo Collective.
 ## Table of Contents
  - [Requirements](#requirements)
  - [Installation](#installation)
- - [Deploying](#deploying)
  - [Copyright and License](#copyright-and-license)
 
 ## Requirements
